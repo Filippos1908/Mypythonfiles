@@ -1,0 +1,6 @@
+x =input ("dose ton 1 arithmo")
+y =input ("dose ton 2 aritmo")
+x = float(x)
+y = float(y)
+z =(x+ y)
+print("\nAthroisma {""}".format(z))
